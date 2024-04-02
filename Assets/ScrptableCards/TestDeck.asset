@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 311bf13a7ef606e448971c7efefec0aa, type: 3}
+  m_Name: TestDeck
+  m_EditorClassIdentifier: 
+  <CardsInCollection>k__BackingField:
+  - {fileID: 11400000, guid: 6e822d27d561b2a4b98c2f7c85360202, type: 2}
+  - {fileID: 11400000, guid: 9286133540f3d654ebe62ac69cdce774, type: 2}
+  - {fileID: 11400000, guid: 159b850aade3ce64da2cbc4f04c3d171, type: 2}
